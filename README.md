@@ -11,6 +11,6 @@ I :heart: coding and :art: creating stuff, check out my side projects down below
 <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 #### ✨ My Side Projects
-🎮 **[Kushinada](https://kushinadahime.com/)**, a clear guide archive for the mobile game Puzzle & Dragons (code [here](https://github.com/LucasAMello/kushinada))
+🎮 **[Kushinada](https://kushinadahime.com/)**, a clear guide archive for the mobile game Puzzle & Dragons (code [here](https://github.com/LucasAMello/kushinada), made using a MEAN stack)
 
-:game_die: **[Boardgamers](https://www.boardgamers.space/)**, play board games online (code for [⚡ Powergrid](https://github.com/boardgamers/powergrid) and [:package: Container](https://github.com/boardgamers/container))
+:game_die: **[Boardgamers](https://www.boardgamers.space/)**, play board games online (code for [⚡ Powergrid](https://github.com/boardgamers/powergrid) and [:package: Container](https://github.com/boardgamers/container), made using Vue.js)
