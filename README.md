@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Lucas 
 
-I'm a 👨‍💻 Full Stack Developer at :crossed_swords: BITKA Analytics.
+I'm a 👨‍💻 Full Stack Developer
 
 I :heart: coding and :art: creating stuff, check out my side projects down below!
 
